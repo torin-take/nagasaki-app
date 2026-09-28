@@ -18,7 +18,7 @@ export default function MapPage() {
           <h1 className="font-display text-3xl uppercase tracking-wide text-white">Nagasaki Map</h1>
         </header>
         <div className="flex flex-1 items-center justify-center">
-          <MapView className="w-full max-w-sm" />
+          <MapView className="w-full max-w-md" />
         </div>
       </div>
     </main>

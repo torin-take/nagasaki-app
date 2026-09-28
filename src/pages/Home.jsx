@@ -73,7 +73,7 @@ export default function Home() {
           <p className="mb-1 text-[11px] font-semibold uppercase tracking-[0.35em] text-gold/90">
             City Map
           </p>
-          <MapView className="w-full max-w-xs" />
+          <MapView className="w-full max-w-sm" />
         </div>
 
         {/* アンケート：小さく右下 */}
